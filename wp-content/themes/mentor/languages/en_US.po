@@ -1,0 +1,1589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mentor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-06 04:21+0000\n"
+"PO-Revision-Date: 2020-11-06 04:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: comments.php:29
+msgid "Comments (0)"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:59
+msgid "Name*"
+msgstr ""
+
+#: comments.php:63
+msgid "Email*"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:80
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:82
+msgid "Add widgets here."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto Slab, translate this to 'off'. Do not translate into your own language.
+#: functions.php:111
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the template
+msgid "Checkout & Cart Page"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:48
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:37
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:18
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:26
+msgid "Page Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:36
+#: inc/backend/customizer/customizer-page-header.php:24
+msgid "Page Header On/Off"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:40
+msgid "On"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:41
+msgid "Off"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:45
+msgid "Background Page Header"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:55
+msgid "Header/Footer Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:62
+msgid "Header Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:67
+#: inc/backend/customizer/customizer-header.php:29
+#: inc/backend/customizer/customizer-header.php:47
+msgid "Select a header"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:76
+#: inc/backend/customizer/customizer-header.php:34
+msgid "Header Transparent?"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:80
+msgid "Default"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:81
+#: inc/backend/elementor/widgets/pricing-table.php:45
+msgid "Yes"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:82
+#: inc/backend/elementor/widgets/pricing-table.php:46
+msgid "No"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:87
+msgid "Header Mobile Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:92
+msgid "Select a header mobile"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:101
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:106
+#: inc/backend/customizer/customizer-footer.php:29
+msgid "Select a footer"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:119
+msgid "Event Details"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:126
+msgid "Event Excerpt"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:132
+msgid "id"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:138
+msgid "Label Button"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:144
+msgid "Button Link"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:14
+msgid "Meta Box"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:19
+msgid "Kirki"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:24
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:29
+#: inc/backend/elementor/widgets/contact-form7.php:44
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:34
+msgid "The Events Calendar"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:39
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:44
+msgid "Booked Calendar"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:50
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:56
+msgid "OT One Click Demo Content"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:71
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:73
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/backend/plugin-requires.php:75
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:76
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:77
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:78
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:79
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:81
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:82
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:84
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:85
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:86
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/backend/plugin-requires.php:87
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/frontend/builder.php:72
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: inc/frontend/builder.php:74
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: inc/frontend/builder.php:76
+msgid "take me home"
+msgstr ""
+
+#: inc/frontend/preloader.php:18 inc/frontend/preloader.php:29
+msgid "Preloader"
+msgstr ""
+
+#: inc/frontend/preloader.php:36
+msgid "Logo Preload"
+msgstr ""
+
+#: inc/frontend/preloader.php:50
+msgid "Logo Width"
+msgstr ""
+
+#: inc/frontend/preloader.php:69
+msgid "Logo Height"
+msgstr ""
+
+#: inc/frontend/preloader.php:88
+msgid "Percent Text Color"
+msgstr ""
+
+#: inc/frontend/preloader.php:102
+#: inc/backend/customizer/customizer-footer.php:48
+#: inc/backend/customizer/customizer-page-header.php:65
+#: inc/backend/elementor/widgets/button.php:157
+#: inc/backend/elementor/widgets/button.php:227
+#: inc/backend/elementor/widgets/pricing-table.php:514
+#: inc/backend/elementor/widgets/pricing-table.php:567
+#: inc/backend/elementor/widgets/testimonials.php:134
+#: inc/backend/elementor/widgets/header/menu.php:158
+#: inc/backend/elementor/widgets/header/menu.php:169
+msgid "Background Color"
+msgstr ""
+
+#: inc/frontend/preloader.php:116
+msgid "Percent Preload Font"
+msgstr ""
+
+#. %s: post date.
+#: inc/frontend/template-tags.php:27 inc/frontend/template-tags.php:85
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:41
+msgid " "
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: inc/frontend/template-tags.php:44 inc/frontend/template-tags.php:98
+#: inc/frontend/template-tags.php:105 inc/frontend/template-tags.php:128
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. %s: post author.
+#: inc/frontend/template-tags.php:59 inc/frontend/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:95
+msgid ", "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:102
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:125
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: inc/frontend/template-tags.php:197
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:203
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/frontend/template-tags.php:221
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:100
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:289
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:314
+msgid "Single Product"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:326
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:330
+msgid "Select default sidebar for the shop page."
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:341
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:353
+msgid "Title Page Header"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:13
+msgid "Blog"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:21
+msgid "Blog Page"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:28
+msgid "Single Post"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:40
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:44
+msgid "Select default sidebar for the blog page."
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:53
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:57
+msgid "Categories"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:58
+#: inc/backend/elementor/widgets/workshops.php:106
+msgid "Date"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:59
+msgid "Author"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:65
+msgid "Details Button"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:67
+msgid "READ MORE"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:73
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:85
+msgid "Page Title"
+msgstr ""
+
+#: inc/backend/customizer/customizer-blog.php:87
+msgid "Blog Single"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:14
+msgid "Footer"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:24
+msgid "Select Footer"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:25
+msgid "Choose a footer for all site here."
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:41
+msgid "Back To Top On/Off?"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:68
+#: inc/backend/elementor/widgets/counter.php:122
+#: inc/backend/elementor/widgets/counter.php:166
+#: inc/backend/elementor/widgets/icon-box.php:167
+#: inc/backend/elementor/widgets/icon-box.php:247
+#: inc/backend/elementor/widgets/icon-box.php:292
+#: inc/backend/elementor/widgets/icon-box.php:350
+#: inc/backend/elementor/widgets/pricing-table.php:245
+#: inc/backend/elementor/widgets/pricing-table.php:295
+#: inc/backend/elementor/widgets/pricing-table.php:350
+#: inc/backend/elementor/widgets/pricing-table.php:405
+#: inc/backend/elementor/widgets/pricing-table.php:455
+#: inc/backend/elementor/widgets/pricing-table.php:528
+#: inc/backend/elementor/widgets/pricing-table.php:581
+#: inc/backend/elementor/widgets/step-box.php:107
+#: inc/backend/elementor/widgets/step-box.php:134
+#: inc/backend/elementor/widgets/step-box.php:218
+#: inc/backend/elementor/widgets/step-box.php:246
+#: inc/backend/elementor/widgets/step-box.php:283
+#: inc/backend/elementor/widgets/workshops.php:130
+#: inc/backend/elementor/widgets/workshops.php:174
+#: inc/backend/elementor/widgets/workshops.php:218
+#: inc/backend/elementor/widgets/workshops.php:262
+#: inc/backend/elementor/widgets/workshops.php:301
+msgid "Color"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:88
+#: inc/backend/elementor/widgets/counter.php:150
+#: inc/backend/elementor/widgets/icon-box.php:179
+#: inc/backend/elementor/widgets/icon-box.php:231
+#: inc/backend/elementor/widgets/icon-box.php:330
+#: inc/backend/elementor/widgets/pricing-table.php:279
+#: inc/backend/elementor/widgets/pricing-table.php:323
+#: inc/backend/elementor/widgets/pricing-table.php:389
+#: inc/backend/elementor/widgets/pricing-table.php:436
+#: inc/backend/elementor/widgets/step-box.php:91
+#: inc/backend/elementor/widgets/step-box.php:145
+#: inc/backend/elementor/widgets/step-box.php:202
+#: inc/backend/elementor/widgets/step-box.php:257
+#: inc/backend/elementor/widgets/testimonials.php:250
+#: inc/backend/elementor/widgets/workshops.php:114
+#: inc/backend/elementor/widgets/workshops.php:158
+#: inc/backend/elementor/widgets/workshops.php:202
+#: inc/backend/elementor/widgets/workshops.php:246
+msgid "Spacing"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:97
+msgid "Bottom (Ex: 20px)"
+msgstr ""
+
+#: inc/backend/customizer/customizer-footer.php:98
+msgid "Right (Ex: 20px)"
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:13
+msgid "Header"
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:24
+msgid "Select Header Desktop"
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:25
+msgid "Choose the header on desktop."
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:35
+msgid "Enable when your header is transparent."
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:42
+msgid "Select Header Mobile"
+msgstr ""
+
+#: inc/backend/customizer/customizer-header.php:43
+msgid "Choose the header on mobile."
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:13
+msgid "Page Header"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:31
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:45
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:84
+msgid "Title Color"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:103
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:127
+msgid "Page Header Height (Ex: 300px)"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:132
+#: inc/backend/customizer/customizer-page-header.php:176
+#: inc/backend/customizer/customizer-page-header.php:220
+msgid "Desktop"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:133
+#: inc/backend/customizer/customizer-page-header.php:177
+#: inc/backend/customizer/customizer-page-header.php:221
+msgid "Tablet"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:134
+#: inc/backend/customizer/customizer-page-header.php:178
+#: inc/backend/customizer/customizer-page-header.php:222
+msgid "Mobile"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:171
+msgid "Padding Top (Ex: 100px)"
+msgstr ""
+
+#: inc/backend/customizer/customizer-page-header.php:215
+msgid "Page Title Size (Ex: 30px)"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:195
+#: inc/backend/elementor/widgets/button.php:127
+#: inc/backend/elementor/widgets/testimonials.php:126
+#: inc/backend/elementor/widgets/workshops.php:36
+msgid "General"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:202
+msgid "Typography"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:209
+#: inc/frontend/page-header/breadcrumbs.php:89
+msgid "404"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:216
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:222
+msgid "Google Analytics(Script Code)"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:232
+msgid "Typography Customize?"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:239
+msgid "Body Font"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:267
+msgid "Heading 1"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:295
+msgid "Heading 2"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:323
+msgid "Heading 3"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:351
+msgid "Heading 4"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:379
+msgid "Heading 5"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:407
+msgid "Heading 6"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:437
+msgid "Customize?"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:444
+msgid "Select Page"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:445
+msgid "Choose a template in pages."
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:461
+msgid "Background Body"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:474
+msgid "Primary Color"
+msgstr ""
+
+#: inc/backend/customizer/customizer.php:483
+msgid "Code"
+msgstr ""
+
+#: inc/backend/elementor/column.php:39
+msgid "Min Width (px)"
+msgstr ""
+
+#: inc/backend/elementor/column.php:74
+msgid "Content Align"
+msgstr ""
+
+#: inc/backend/elementor/column.php:78
+msgid "Vertical"
+msgstr ""
+
+#: inc/backend/elementor/column.php:82
+msgid "Horizontal"
+msgstr ""
+
+#. Name of the theme
+#: inc/backend/elementor/elementor.php:16
+msgid "Mentor"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:24
+msgid "OT Header"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:84
+msgid "Header Builders"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:85
+msgid "Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:86
+#: inc/backend/elementor/elementor.php:122
+msgid "Add New"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:87
+msgid "Add New Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:88
+#: inc/backend/elementor/elementor.php:124
+msgid "Edit"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:89
+msgid "Edit Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:90
+msgid "New Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:91
+#: inc/backend/elementor/elementor.php:127
+msgid "View"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:92
+msgid "View Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:93
+msgid "Search Header Builders"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:94
+msgid "No Header Builders found"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:95
+msgid "No Header Builders found in Trash"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:96
+msgid "Parent Header Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:120
+msgid "Footer Builders"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:121
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:123
+msgid "Add New Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:125
+msgid "Edit Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:126
+msgid "New Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:128
+msgid "View Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:129
+msgid "Search Footer Builders"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:130
+msgid "No Footer Builders found"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:131
+msgid "No Footer Builders found in Trash"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:132
+msgid "Parent Footer Builder"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:165
+msgid "For Header"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:172
+msgid "Sticky On/Off"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:181
+msgid "Background Scroll"
+msgstr ""
+
+#: inc/backend/elementor/elementor.php:194
+msgid "Offset"
+msgstr ""
+
+#: inc/frontend/page-header/breadcrumbs.php:14
+#: inc/frontend/page-header/breadcrumbs.php:16
+msgid "Home"
+msgstr ""
+
+#: inc/frontend/page-header/breadcrumbs.php:85
+msgid "Search"
+msgstr ""
+
+#: inc/frontend/page-header/page-header.php:29
+msgid "Search Results for: "
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/frontend/widgets/recent-posts.php:12
+#: inc/frontend/widgets/recent-posts.php:15
+msgid "OT Recent Posts"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:27
+msgid "Latest News"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:135
+#: inc/backend/elementor/widgets/counter.php:74
+msgid "Title:"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:141
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/frontend/widgets/recent-posts.php:150
+msgid "Show date time"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:17
+msgid "OT Button"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:43
+msgid "Normal Button"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:44
+msgid "Button With Icon"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:50
+msgid "Solid"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:51
+msgid "Border"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:61
+#: inc/backend/elementor/widgets/icon-box.php:318
+#: inc/backend/elementor/widgets/pricing-table.php:480
+msgid "Button"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:68
+#: inc/backend/elementor/widgets/counter.php:105
+#: inc/backend/elementor/widgets/step-box.php:75
+#: inc/backend/elementor/widgets/workshops.php:97
+msgid "Style"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:79
+#: inc/backend/elementor/widgets/counter.php:41
+#: inc/backend/elementor/widgets/icon-box.php:43
+#: inc/backend/elementor/widgets/pricing-table.php:136
+#: inc/backend/elementor/widgets/workshops.php:42
+#: inc/backend/elementor/widgets/header/logo.php:42
+#: inc/backend/elementor/widgets/header/menu.php:55
+msgid "Alignment"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:83
+#: inc/backend/elementor/widgets/counter.php:46
+#: inc/backend/elementor/widgets/icon-box.php:47
+#: inc/backend/elementor/widgets/pricing-table.php:141
+#: inc/backend/elementor/widgets/workshops.php:46
+#: inc/backend/elementor/widgets/header/logo.php:46
+#: inc/backend/elementor/widgets/header/menu.php:59
+msgid "Left"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:87
+#: inc/backend/elementor/widgets/counter.php:50
+#: inc/backend/elementor/widgets/icon-box.php:51
+#: inc/backend/elementor/widgets/pricing-table.php:145
+#: inc/backend/elementor/widgets/workshops.php:50
+#: inc/backend/elementor/widgets/header/logo.php:50
+#: inc/backend/elementor/widgets/header/menu.php:63
+msgid "Center"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:91
+#: inc/backend/elementor/widgets/counter.php:54
+#: inc/backend/elementor/widgets/icon-box.php:55
+#: inc/backend/elementor/widgets/pricing-table.php:149
+#: inc/backend/elementor/widgets/workshops.php:54
+#: inc/backend/elementor/widgets/header/logo.php:54
+#: inc/backend/elementor/widgets/header/menu.php:67
+msgid "Right"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:103
+msgid "Text"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:105
+msgid "Click here"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:112
+#: inc/backend/elementor/widgets/icon-box.php:145
+#: inc/backend/elementor/widgets/pricing-table.php:114
+msgid "Link"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:114
+#: inc/backend/elementor/widgets/icon-box.php:147
+#: inc/backend/elementor/widgets/pricing-table.php:116
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:138
+#: inc/backend/elementor/widgets/pricing-table.php:504
+msgid "Normal"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:145
+#: inc/backend/elementor/widgets/button.php:216
+#: inc/backend/elementor/widgets/testimonials.php:146
+#: inc/backend/elementor/widgets/testimonials.php:230
+#: inc/backend/elementor/widgets/header/menu-mobile.php:111
+#: inc/backend/elementor/widgets/header/menu.php:91
+#: inc/backend/elementor/widgets/header/menu.php:180
+msgid "Text Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:176
+#: inc/backend/elementor/widgets/button.php:248
+#: inc/backend/elementor/widgets/pricing-table.php:172
+#: inc/backend/elementor/widgets/testimonials.php:207
+msgid "Border Radius"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:188
+#: inc/backend/elementor/widgets/testimonials.php:166
+msgid "Padding"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:209
+#: inc/backend/elementor/widgets/pricing-table.php:558
+msgid "Hover"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:237
+#: inc/backend/elementor/widgets/pricing-table.php:542
+#: inc/backend/elementor/widgets/pricing-table.php:595
+#: inc/backend/elementor/widgets/header/menu-mobile.php:122
+msgid "Border Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/button.php:260
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:51
+msgid "Select Contact Form"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:52
+msgid ""
+"Contact form 7 - plugin must be installed and there must be some contact "
+"forms made with the contact form 7"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:65
+msgid "After Submit Redirect Setting"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:72
+msgid "On Success Redirect To"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:73
+msgid ""
+"Select a page which you want users to redirect to when the contact fom is "
+"submitted and is successful. Leave Blank to Disable"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:85
+msgid "Style Contact Form"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:93
+msgid "Global CSS For all fields"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:94
+msgid ""
+"This is the global css for all fields of cf7. It will not effect the other "
+"fileds but if you want to define things such as color, background color use "
+"this."
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:106
+msgid "All Label CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:107
+#: inc/backend/elementor/widgets/contact-form7.php:119
+#: inc/backend/elementor/widgets/contact-form7.php:135
+#: inc/backend/elementor/widgets/contact-form7.php:207
+msgid ""
+"Changes might not sometimes show in the live preview but check in the front "
+"end to see the changes."
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:118
+msgid "All Input CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:134
+msgid "Textarea CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:149
+msgid "Checkbox/ Radio CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:161
+msgid "Dropdown/ Select Box css"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:172
+msgid "Select Options Css"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:184
+msgid "File CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:195
+msgid "Date CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:206
+msgid "Submit Button CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:219
+msgid "Submit Button Hover CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:231
+msgid "Responce CSS"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:280
+msgid "No contect From 7 form found"
+msgstr ""
+
+#: inc/backend/elementor/widgets/contact-form7.php:297
+msgid "No Pages Found!"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:17
+msgid "OT Counter"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:35
+msgid "Counter"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:68
+msgid "68"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:76
+msgid "Persons Mentored"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:82
+msgid "Duration"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:114
+#: inc/backend/elementor/widgets/step-box.php:42
+#: inc/backend/elementor/widgets/step-box.php:83
+msgid "Number"
+msgstr ""
+
+#: inc/backend/elementor/widgets/counter.php:142
+#: inc/backend/elementor/widgets/icon-box.php:108
+#: inc/backend/elementor/widgets/icon-box.php:224
+#: inc/backend/elementor/widgets/pricing-table.php:67
+#: inc/backend/elementor/widgets/pricing-table.php:271
+#: inc/backend/elementor/widgets/step-box.php:52
+#: inc/backend/elementor/widgets/step-box.php:194
+#: inc/backend/elementor/widgets/workshops.php:238
+msgid "Title"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:17
+msgid "OT Icon Box"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:36
+msgid "Icon Box"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:68
+msgid "Icon Type"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:72
+msgid "Font Icon"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:73
+msgid "Theme Icon"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:80
+#: inc/backend/elementor/widgets/icon-box.php:160
+#: inc/backend/elementor/widgets/header/menu-mobile.php:72
+#: inc/backend/elementor/widgets/header/search.php:36
+msgid "Icon"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:96
+msgid "Theme Class"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:98
+msgid "icon_box-checked"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:110
+msgid "Design & Planning"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:116
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:138
+msgid "We will help you to get the result you dreamed of."
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:195
+#: inc/backend/elementor/widgets/testimonials.php:189
+msgid "Size"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:215
+#: inc/backend/elementor/widgets/pricing-table.php:212
+#: inc/backend/elementor/widgets/testimonials.php:42
+msgid "Content"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:258
+#: inc/backend/elementor/widgets/icon-box.php:365
+#: inc/backend/elementor/widgets/workshops.php:273
+msgid "Hover Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/icon-box.php:281
+#: inc/backend/elementor/widgets/step-box.php:275
+#: inc/backend/elementor/widgets/workshops.php:293
+msgid "Description"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:17
+msgid "OT Pricing Table"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:36
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:43
+msgid "Pricing Table Featured"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:54
+msgid "Featured Text"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:56
+msgid "Top!"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:69
+msgid "Standard"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:77
+#: inc/backend/elementor/widgets/pricing-table.php:381
+msgid "Price"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:79
+msgid "<sup>$</sup> 29"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:89
+msgid ""
+"Sed iaculis dapibus tellus eget condimentum. Curabitur ut tellus congue, "
+"convallis tortor et."
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:98
+msgid "<ul><li></li><li></li><li></li></ul>"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:107
+msgid "Buy Now"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:129
+msgid "Table"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:161
+msgid "Padding Box"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:183
+#: inc/backend/elementor/widgets/pricing-table.php:231
+#: inc/backend/elementor/widgets/header/menu-mobile.php:100
+msgid "Background"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:221
+msgid "Featured"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:315
+msgid "Details"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:339
+msgid "Line Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:361
+msgid "Active Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/pricing-table.php:425
+msgid "Short Text"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:17
+msgid "OT Step Box"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:36
+msgid "Step Box"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:44
+msgid "1."
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:54
+msgid "Content Marketing"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:65
+msgid ""
+"You can provide the answers that your potential customers are trying to find,"
+" so you can become the industry."
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:126
+msgid "Bar"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:161
+#: inc/backend/elementor/widgets/header/logo.php:78
+#: inc/backend/elementor/widgets/header/menu.php:142
+msgid "Width"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:177
+msgid "Height"
+msgstr ""
+
+#: inc/backend/elementor/widgets/step-box.php:238
+msgid "Line"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:17
+msgid "OT Testimonials"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:35
+msgid "Testimonials"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:52
+msgid "Avatar"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:63
+#: inc/backend/elementor/widgets/testimonials.php:222
+msgid "Name"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:77
+#: inc/backend/elementor/widgets/testimonials.php:85
+#: inc/backend/elementor/widgets/testimonials.php:93
+msgid ""
+"I am so happy, my dear friend, so absorbed in the exquisite sense of mere "
+"tranquil existence, that I neglect my talents. I should be incapable of "
+"drawing a single stroke at the present moment."
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:109
+#: inc/backend/elementor/widgets/workshops.php:72
+msgid "Columns"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:113
+msgid "1"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:114
+msgid "2"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:115
+msgid "3"
+msgstr ""
+
+#: inc/backend/elementor/widgets/testimonials.php:181
+msgid "Avatars"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:17
+msgid "OT Workshops"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:58
+msgid "Justified"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:76
+msgid "2 Column"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:77
+msgid "3 Column"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:78
+msgid "4 Column"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:85
+msgid "Show Number"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:150
+msgid "Location"
+msgstr ""
+
+#: inc/backend/elementor/widgets/workshops.php:194
+msgid "Time"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/logo.php:17
+msgid "OT Logo"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/logo.php:35
+msgid "Logo"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/logo.php:67
+msgid "Image"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:17
+msgid "OT Menu Mobile"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:35
+#: inc/backend/elementor/widgets/header/menu-mobile.php:93
+#: inc/backend/elementor/widgets/header/menu.php:35
+msgid "Menu"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:43
+#: inc/backend/elementor/widgets/header/menu.php:43
+msgid "Select Menu"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:56
+msgid "Position"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:60
+msgid "On Left"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:61
+msgid "On Right"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:79
+#: inc/backend/elementor/widgets/header/search.php:43
+msgid "Icon Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu-mobile.php:140
+msgid "Back Button Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu.php:17
+msgid "OT Nav Menu"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu.php:84
+msgid "Menu Parents"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu.php:102
+#: inc/backend/elementor/widgets/header/menu.php:191
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/menu.php:135
+msgid "Dropdown Menus"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/search.php:17
+msgid "OT Search"
+msgstr ""
+
+#: inc/backend/elementor/widgets/header/search.php:54
+msgid "Icon Size"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Mentor is a beautiful WordPress theme mainly suitable for mentors who offer "
+"personal development. But in can also be easily used for coaches, trainers, "
+"therapist, tranning, Speakers or other profession who needs a personal "
+"website."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.oceanthemes.net/mentor"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
